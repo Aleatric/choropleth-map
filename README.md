@@ -9,7 +9,7 @@ This interactive data visualization project displays United States education dat
 - Customized legend for color-coding.
 
 ## Demo
-Check out the live demo: https://codepen.io/Aleatric/pen/WNYMerp](https://codepen.io/Aleatric/pen/WNYMerp
+Check out the live demo: https://codepen.io/Aleatric/pen/WNYMerp
 
 ## Technology Used
 - HTML
